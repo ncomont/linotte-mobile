@@ -20,7 +20,7 @@ export default class Map extends Component {
 		super();
 
 		Mapbox.setAccessToken(
-			'pk.eyJ1Ijoibmljb2xhc2MiLCJhIjoiY2oyeDU1MDljMDA4YTJ3cno5MWM2NGZudiJ9.D65T7KFmuriuDOCk_fpwsw'
+			'SECRET'
 		);
 	}
 
